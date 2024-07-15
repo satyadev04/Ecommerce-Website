@@ -26,4 +26,6 @@ The project’s CSS file handles the styling of the website, ensuring a consiste
 Conclusion:- This e-commerce website project effectively demonstrates the integration of HTML, CSS, and JavaScript to create a dynamic and user-friendly online store. The well-structured layout, responsive design, and interactive elements contribute to a seamless shopping experience. By showcasing products attractively and providing essential features like navigation, promotions, and customer support, the website not only enhances user engagement but also drives sales. This project serves as a solid foundation for developing more advanced e-commerce solutions, highlighting the importance of combining aesthetic appeal with functional design in web development.
 
 
+![Screenshot 2024-07-15 203030](https://github.com/user-attachments/assets/76f75993-1715-4e0d-9140-1b939b03cbea)
 
+![Screenshot 2024-07-15 203104](https://github.com/user-attachments/assets/f54b8b85-c966-4b34-899f-ee153db2b319)
