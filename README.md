@@ -29,3 +29,11 @@ Conclusion:- This e-commerce website project effectively demonstrates the integr
 ![Screenshot 2024-07-15 203030](https://github.com/user-attachments/assets/76f75993-1715-4e0d-9140-1b939b03cbea)
 
 ![Screenshot 2024-07-15 203104](https://github.com/user-attachments/assets/f54b8b85-c966-4b34-899f-ee153db2b319)
+
+![Screenshot 2024-07-15 203227](https://github.com/user-attachments/assets/0ac227e1-97b9-4289-a915-beea4365e6f6)
+
+![Screenshot 2024-07-15 203245](https://github.com/user-attachments/assets/d3bf4d85-691e-43a2-a178-b728a9cf79e6)
+
+![Screenshot 2024-07-15 203940](https://github.com/user-attachments/assets/14e3684d-bb82-4af3-b121-70d78f3afaa7)
+
+
